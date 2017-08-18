@@ -17,4 +17,4 @@ if __name__=='__main__':
 ## Note
 `百科投诉专员01.html` and `xuonx.html` are the test data from [百科投诉专员01](https://www.baidu.com/p/%E7%99%BE%E7%A7%91%E6%8A%95%E8%AF%89%E4%B8%93%E5%91%9801?from=wk) and [xuonx](https://www.baidu.com/p/xuonx?from=wk)
 
-百科投诉专员.png is the demo of textual analysis
+~百科投诉专员.png· is the demo of textual analysis
